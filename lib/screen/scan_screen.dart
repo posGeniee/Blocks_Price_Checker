@@ -67,8 +67,8 @@ class _ScanScreenState extends State<ScanScreen>
   String _scanBuffer = '';
 
   // Current app build number - update this when releasing new versions
-  static const int _currentBuildNumber = 14;
-  static const String _currentVersionNumber = "1.1.10";
+  static const int _currentBuildNumber = 16;
+  static const String _currentVersionNumber = "1.1.11";
 
   String? _latestApkApiKeycode;
   final bool _isForPlayStore = true;
